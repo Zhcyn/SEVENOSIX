@@ -1,0 +1,9 @@
+A simple workout logger for iOS platform to keep track of your daily workouts.
+
+Fundamental functionalities:
+* Add/Update/Remove Exercises
+* Add/Update/Remove Workouts
+* Easy way to modify the amount of repititions done for one exercise within one workout
+* Export workouts as CSV-file
+The current project is still under development, and the current stage mainly tests the integrity of the interface UI and the correctness of logical operations.
+If you encounter problems during the test, please contact me.
